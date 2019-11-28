@@ -7,6 +7,7 @@ package ejerciciosbasicosdejava;
 public class EjerciciosBasicosDeJava {
 
     public int multa(int velocidadCoche, boolean cumpleaños) {
+        
         if (velocidadCoche <= 60) {
             return 0;
         }
